@@ -32,12 +32,12 @@ function AdvancedStats() {
 
                     <h1 className='text-xl text-veryDarkPurple'>Detailed Records</h1>
                     <p className=' text-grayColor'>Gain insights into who is clicking your links. Knowing when and where 
-                        people engage with your content helps inform better decisions.</p>
+                        people engage with your content helps inform better decisions.  </p>
                 </div>
 
                 <div className='w-1/3 h-[300px] flex justify-center flex-col gap-6 bg-white rounded-md relative px-12 py-12 pb-8'>
 
-                    <div className='p-4 w-[4rem] absolute -top-7 rounded-full bg-veryDarkPurple'>
+                    <div className='p-4 w-[4rem] absolute -top-7 rounded-full bg-veryDarkPurple'> 
                         <img src="/icon-brand-recognition.svg" alt="" />
                     </div>
 
