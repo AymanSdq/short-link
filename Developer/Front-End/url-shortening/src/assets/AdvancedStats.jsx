@@ -45,6 +45,8 @@ function AdvancedStats() {
                     <p className=' text-grayColor'>Improve brand awareness and content discoverability through customizable 
                         links, supercharging audience engagement.</p>
                 </div>
+
+                {/* Need to fix this pelease */}
             </div>
                 
         </section>
